@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Folders
+data/
+model_ckpts/
+
 # C extensions
 *.so
 
