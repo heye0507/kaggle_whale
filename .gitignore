@@ -5,7 +5,7 @@ __pycache__/
 
 # Folders
 data/
-model_ckpts/
+model/
 
 # C extensions
 *.so
