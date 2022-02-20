@@ -8,4 +8,4 @@ Students are expected to gain hands on experience on the ongoing Kaggle Happy Wh
 
 In the notebook section, more baselines will be added as the course progress. 
 
-Please contact the course TA if you have any questions @ hheat@connect.ust.hk
+Please contact the course TA if you have any questions
